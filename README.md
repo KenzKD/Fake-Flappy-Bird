@@ -3,6 +3,7 @@ Flappy Bird Replica .
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65004578/124734650-628b9c00-df26-11eb-85bb-6f3c1b06806e.png" width=25% height=25%>
 </p>
+
 ## Level design shifts between a day and night mode.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65004578/124736415-0a559980-df28-11eb-8ef1-791f9ff01936.png" width=25% height=25%>  
